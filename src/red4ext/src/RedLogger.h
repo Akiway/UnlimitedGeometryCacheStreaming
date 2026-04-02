@@ -1,7 +1,7 @@
 #pragma once
 #include <string>
 
-namespace InfiniteRandomizerFramework {
+namespace UnlimitedGeometryCacheStreaming {
     struct RedLogger {
         static void Info(const std::string& message);
         static void Error(const std::string& message);

@@ -2,7 +2,7 @@
 
 #include "DataStructs/Globals.h"
 
-namespace InfiniteRandomizerFramework {
+namespace UnlimitedGeometryCacheStreaming {
     void RedLogger::Info(const std::string& message) {
         g_sdk->logger->Info(g_pHandle, message.c_str());
     }

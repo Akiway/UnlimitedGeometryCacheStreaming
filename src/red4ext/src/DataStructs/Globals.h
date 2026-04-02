@@ -2,7 +2,7 @@
 
 #include <RED4ext/RED4ext.hpp>
 
-namespace InfiniteRandomizerFramework
+namespace UnlimitedGeometryCacheStreaming
 {
     extern RED4ext::PluginHandle g_pHandle;
     extern const RED4ext::Sdk* g_sdk;
