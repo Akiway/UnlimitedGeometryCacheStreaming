@@ -1,0 +1,82 @@
+####################################
+# CLion / JetBrains IDE
+####################################
+
+.idea/
+*.iml
+
+# Optional: keep shared project settings
+# (uncomment if you want shared configs)
+#!.idea/codeStyles
+#!.idea/inspectionProfiles
+
+####################################
+# CMake
+####################################
+
+# Build directories
+cmake-build-*/
+build/
+out/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# Generated Makefiles / Ninja files
+Makefile
+build.ninja
+.ninja_deps
+.ninja_log
+
+####################################
+# Compiled binaries & objects
+####################################
+
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+*.a
+*.lib
+*.pdb
+
+####################################
+# Testing / coverage
+####################################
+
+Testing/
+coverage/
+*.gcda
+*.gcno
+*.gcov
+
+####################################
+# Logs
+####################################
+
+*.log
+
+####################################
+# OS files
+####################################
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+####################################
+# Misc
+####################################
+
+.cache/
